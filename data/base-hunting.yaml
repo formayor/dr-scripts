@@ -941,12 +941,12 @@ hunting_zones:
   - 9096
   - 9097
   # https://elanthipedia.play.net/Cave_troll                             220-375
+  # 19193 safe room, no spawn
   cave_trolls:
   - 19194
   - 19195
   - 19196
   - 19204
-  - 19193
   # https://elanthipedia.play.net/Giant_bear                             250-400
   # Guestimated around 220 or higher. Please update as more information comes in.
   giant_bears:
